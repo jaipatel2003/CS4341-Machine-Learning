@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Worked with three important concepts to building and training Deep Neural Networks (DNNs) for image classification:
+Worked with three important concepts for building and training Deep Neural Networks (DNNs) for image classification:
 
 1. Data Preprocessing
 
